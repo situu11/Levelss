@@ -1,0 +1,13 @@
+name: LevelSystem
+version: '${project.version}'
+main: dev.sitek.levelsystem.LevelSystem
+softdepend:
+  - PlaceholderAPI
+  - LuckPerms
+commands:
+  lvl:
+    aliases: level
+  top:
+  itemshop:
+    aliases: is
+  bonus:
